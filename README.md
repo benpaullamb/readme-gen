@@ -22,17 +22,17 @@ CLI README generator
 1. Create a Python virtual environment.
 
 ```
-python3 -m venv venv
+python3 -m venv .venv
 ```
 
 2. Activate the virtual environment.
 
 ```
 // On Windows
-venv/Scripts/Activate
+.venv/Scripts/Activate
 
 // On Mac
-source venv/bin/activate
+source .venv/bin/activate
 ```
 
 3. Install the CLI and dependencies.
