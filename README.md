@@ -6,8 +6,6 @@
 
 CLI README generator
 
-![Screenshot of the app](./screenshot.png)
-
 ### Built with
 
 - Python
