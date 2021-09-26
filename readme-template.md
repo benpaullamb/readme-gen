@@ -1,4 +1,4 @@
-# Title
+# $title
 
 ![status: in-progress](https://img.shields.io/badge/status-in--progress-green)
 
@@ -12,17 +12,32 @@ Description
 
 ### Built with
 
+- Tech
+
 ## Getting Started
 
 ### Prerequisites
 
+$prereqs
+
 ### Installation
+
+$install
 
 ## Deployment
 
+$deploy
+
 ## Usage
 
+...
+
 ## Roadmap
+
+No planned features.
+
+- [ ] Feature
+- [ ] Feature
 
 ## Release History
 
