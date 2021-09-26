@@ -52,6 +52,7 @@ Type `readme-gen` into a shell.
 ## Roadmap
 
 - [ ] Optional template sections for Node/Python
+- [ ] Restructure into src folder
 
 ## Release History
 
